@@ -20,7 +20,7 @@ I'm a **Data Scientist** and **IT Officer** with a strong background in **data a
 ## 📫 Get in Touch
 - 🏠 **Portfolio:** [Coming Soon...]  
 - 📩 **Email:** kariukiwambui150@gmail.com  
-- 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/wambuikariuki/)  
+- 💼 **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/wambui-kariuki/)  
 - 🐦 **Twitter:** [@wambuikariuki](https://twitter.com/wambuikariuki)  
 - 📂 **GitHub:** [@wambuikariuki](https://github.com/wambuikariuki)  
 
