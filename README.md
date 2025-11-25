@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @wambuikariuki
 
 ## About Me
-I'm a **Data Scientist** and **IT Officer** with a strong background in **data analytics, machine learning**. Passionate about using data-driven insights to solve real-world problems, especially in **healthcare, finance, and business intelligence**.
+I'm a **Data Scientist** with a strong background in **data analytics, machine learning**. Passionate about using data-driven insights to solve real-world problems, especially in **healthcare, finance, and business intelligence**.
 
 ## 🔎 Interests
 - 💻 **Data Science & Machine Learning** – exploring new algorithms and improving predictive modeling skills.  
